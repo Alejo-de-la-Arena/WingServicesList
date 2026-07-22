@@ -1,0 +1,1 @@
+.wp-block-wing-services-list .wing-services-list__heading{margin-bottom:1.5rem;text-align:center}.wp-block-wing-services-list .wing-services-list__grid{align-items:stretch;display:grid;gap:1.5rem;grid-template-columns:repeat(var(--wing-columns,3),1fr)}@media(max-width:781px){.wp-block-wing-services-list .wing-services-list__grid{grid-template-columns:1fr}}

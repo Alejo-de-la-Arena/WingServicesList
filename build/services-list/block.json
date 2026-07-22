@@ -1,0 +1,39 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "wing/services-list",
+  "version": "1.0.0",
+  "title": "Wing Services List",
+  "category": "widgets",
+  "icon": "screenoptions",
+  "description": "A list of services. Add service items, each with an image, a title and a short description.",
+  "keywords": [
+    "services",
+    "list",
+    "wing",
+    "grid"
+  ],
+  "textdomain": "wing-services-list",
+  "supports": {
+    "html": false,
+    "align": [
+      "wide",
+      "full"
+    ]
+  },
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "source": "html",
+      "selector": ".wing-services-list__heading",
+      "default": ""
+    },
+    "columns": {
+      "type": "number",
+      "default": 3
+    }
+  },
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

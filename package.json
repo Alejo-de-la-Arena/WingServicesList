@@ -1,0 +1,13 @@
+{
+  "name": "wing-services-list",
+  "version": "1.0.0",
+  "description": "Gutenberg block to manage and render a list of services.",
+  "license": "GPL-2.0-or-later",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^27.9.0"
+  }
+}

@@ -1,0 +1,8 @@
+// Editor-only tweaks so the inner blocks lay out on the grid while editing.
+.wp-block-wing-services-list {
+	.wing-services-list__grid > .block-editor-inner-blocks > .block-editor-block-list__layout {
+		display: grid;
+		grid-template-columns: repeat( var( --wing-columns, 3 ), 1fr );
+		gap: 1.5rem;
+	}
+}

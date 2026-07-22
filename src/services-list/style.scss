@@ -1,0 +1,20 @@
+// Shared styles: apply in the editor and on the front end.
+.wp-block-wing-services-list {
+	.wing-services-list__heading {
+		text-align: center;
+		margin-bottom: 1.5rem;
+	}
+
+	.wing-services-list__grid {
+		display: grid;
+		grid-template-columns: repeat( var( --wing-columns, 3 ), 1fr );
+		gap: 1.5rem;
+		align-items: stretch;
+	}
+
+	@media ( max-width: 781px ) {
+		.wing-services-list__grid {
+			grid-template-columns: 1fr;
+		}
+	}
+}
