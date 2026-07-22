@@ -14,6 +14,8 @@ I went this route instead of a single block with a repeater because it means add
 I chose Gutenberg over Elementor since it doesn't depend on a page builder and it's the more modern, React-based standard.
 
 <img width="1907" height="884" alt="Screenshot 2026-07-22 152928" src="https://github.com/user-attachments/assets/6ad1fb62-4b0f-4c6b-bf0e-68e2a6192a03" />
+![Uploading screencapture-wing-services-list-local-wing-services-list-2026-07-22-15_32_20.png…]()
+
 
 ## How to use it
 
