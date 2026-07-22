@@ -32,3 +32,6 @@ Kept this within the ~2 hour suggestion, so a few things I'd add with more time:
 - Some visual variants (card style vs. plain list).
 
 Everything else works as described. Let me know if anything looks off.
+
+<img width="1907" height="884" alt="Screenshot 2026-07-22 152928" src="https://github.com/user-attachments/assets/6ad1fb62-4b0f-4c6b-bf0e-68e2a6192a03" />
+
